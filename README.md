@@ -6,4 +6,4 @@ ADS Project
   │── README.md
 
 Drive link for both datasets
-https://drive.google.com/drive/quota
+https://drive.google.com/drive/folders/1jdJwJ7HkRw-JwIxNZpAQHvc_2_2syCpa
